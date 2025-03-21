@@ -3,15 +3,15 @@
 # 1.Contexte du Projet
 Ce projet analyse une enquête menée auprès de professionnels de la data (Data Scientists, Analystes, Ingénieurs, etc.). L'objectif est d’identifier les tendances du secteur, les compétences les plus demandées, les niveaux de salaire, ainsi que le bien-être des travailleurs.
 # 2.Objectifs
-	Identifier les compétences et technologies les plus prisées
-	Analyser la satisfaction des professionnels selon plusieurs critères
-	Étudier la distribution des salaires en fonction des rôles et de l’expérience
-	Construire un tableau de bord interactif avec Power BI
+- Identifier les compétences et technologies les plus prisées
+- Analyser la satisfaction des professionnels selon plusieurs critères
+- Étudier la distribution des salaires en fonction des rôles et de l’expérience
+- Construire un tableau de bord interactif avec Power BI
 # 3.Étapes de la conception du Dashboard
 # a.Préparation des Données
-•	Renommage des variables pour une meilleure lisibilité
-•	Suppression des colonnes inutiles ("Browser", "OS", "City", "Country", "Referrer")
-•	Traitement des valeurs manquantes :
+- Renommage des variables pour une meilleure lisibilité
+- Suppression des colonnes inutiles ("Browser", "OS", "City", "Country", "Referrer")
+- Traitement des valeurs manquantes :
   o	Remplacement des valeurs manquantes par "Not specified" pour certaines variables
   o	Suppression ou reclassification des réponses "Other"
 # b.Création des KPI & Visualisations
