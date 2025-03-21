@@ -46,11 +46,11 @@ Ce projet analyse une enquête menée auprès de professionnels de la data (Data
 - Les tendances salariales varient fortement selon les pays
 
 # 5.Structure du Projet
-  •	Projet1.pbix → Fichier Power BI
-  •	data/ → Contient les données sources (si possible)
-  •	screenshots/ → Captures d'écran du dashboard
-  •	README.md → Documentation du projet
+- Projet1.pbix → Fichier Power BI
+- data/ → Contient les données sources (si possible)
+- screenshots/ → Captures d'écran du dashboard
+- README.md → Documentation du projet
 # 6.Perspectives
-  •	Amélioration des visualisations et ajout d'indicateurs avancés
-  •	Comparaison avec des années précédentes pour détecter les tendances évolutives
-  •	Exploration de nouvelles sources de données pour enrichir l'analyse
+- Amélioration des visualisations et ajout d'indicateurs avancés
+- Comparaison avec des années précédentes pour détecter les tendances évolutives
+- Exploration de nouvelles sources de données pour enrichir l'analyse
